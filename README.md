@@ -9,7 +9,7 @@ I'm a final-year Industrial Computing and Automation Engineering student at INSA
 
 ### 🎯 Open to End-of-Studies Internship Opportunities
 
-🔎 **Actively seeking a 6-month Final-Year Internship (PFE)** starting in **January 2027**.
+🔎 **Actively seeking a 6-month Final-Year Internship ** starting in **January 2027**.
 
 💡 **Areas of interest:** Agentic AI, Generative AI, Machine Learning, Computer Vision, and AI/ML Systems.
 

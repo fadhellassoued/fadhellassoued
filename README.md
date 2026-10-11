@@ -22,17 +22,26 @@ I'm a final-year Industrial Computing and Automation Engineering student at INSA
 - 🧠 **RAG-Powered Applications** — Llama 3, Groq API, ASP.NET MVC
 - 📊 **ML Forecasting & Anomaly Detection** — XGBoost, LSTM, FastAPI
 
-### 🛠️ Tech Stack
 
-**Languages:** Python, SQL, MATLAB, Bash
+## 🛠️ Tech Stack
 
-**AI & Machine Learning:** PyTorch, Scikit-learn, Transformers, YOLO, OpenCV, XGBoost
+### 💻 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=python,matlab,bash&theme=dark)](https://skillicons.dev)
 
-**LLMs & Agentic AI:** LangChain, Gemini, Vertex AI, RAG, Groq API
+### 🤖 AI & Machine Learning
+[![AI and ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)](https://skillicons.dev)
 
-**Backend & Data:** FastAPI, PostgreSQL, BigQuery, SQLGlot
+### 🧠 LLMs & Agentic AI
+[![LLM Tools](https://skillicons.dev/icons?i=python,gcp&theme=dark)](https://skillicons.dev)
 
-**Cloud & MLOps:** GCP, Docker, MLflow, Git
+**Frameworks:** LangChain · Gemini · Vertex AI · RAG · Groq API
+
+### 🗄️ Backend & Databases
+[![Backend](https://skillicons.dev/icons?i=fastapi,postgres,redis,dotnet&theme=dark)](https://skillicons.dev)
+
+### ☁️ Cloud, MLOps & Dev Tools
+[![DevOps](https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+
 
 ### 📫 Let's Connect
 
